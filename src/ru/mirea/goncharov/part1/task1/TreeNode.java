@@ -1,4 +1,4 @@
-package ru.mirea.goncharov.task1;
+package ru.mirea.goncharov.part1.task1;
 
 class TreeNode {
     int val;

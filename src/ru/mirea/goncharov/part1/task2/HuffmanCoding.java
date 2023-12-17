@@ -1,4 +1,4 @@
-package ru.mirea.goncharov.task2;
+package ru.mirea.goncharov.part1.task2;
 
 import java.util.PriorityQueue;
 import java.util.HashMap;

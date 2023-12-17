@@ -1,4 +1,4 @@
-package ru.mirea.goncharov.task2;
+package ru.mirea.goncharov.part1.task2;
 
 class HuffmanNode implements Comparable<HuffmanNode> {
     char data;
