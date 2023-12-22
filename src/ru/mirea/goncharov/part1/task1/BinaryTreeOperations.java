@@ -99,7 +99,7 @@ public class BinaryTreeOperations {
         boolean areTreesEqual = compareTrees(root, reversedTree);
 
         System.out.println("Height of the tree: " + height);
-        System.out.println("Reversed tree: " + reversedTree);
+        System.out.println("Reversed tree: " + reversedTree.toString());
         System.out.println("Node 3 is found: " + isNodeFound);
         System.out.println("Width of the tree: " + width);
         System.out.println("Node count: " + nodeCount);
